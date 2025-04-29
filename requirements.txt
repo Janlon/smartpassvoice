@@ -1,0 +1,5 @@
+pyaudio
+mysql-connector-python
+SpeechRecognition
+PyMySQL
+
